@@ -2,7 +2,7 @@
 ## Thư Viện
 Các thư viện dưới đây cần tải về máy:
 ```
-pip install transformer
+pip install transformers
 pip install tensorflow
 pip install streamlit
 ```
